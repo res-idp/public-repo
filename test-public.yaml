@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test public
+  description: |
+    catalog info in repo
+  links:
+    - title: Documentation - source location
+      url: https://backstage.io/docs/features/software-catalog/well-known-annotations/#backstageiosource-location
+  annotations:
+    github.com/project-slug: res-idp/public-repo
+    
+spec:
+  type: library
+  owner: res-idp
+  lifecycle: experimental
