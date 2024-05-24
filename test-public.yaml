@@ -7,6 +7,77 @@ metadata:
   links:
     - title: Documentation - source location
       url: https://backstage.io/docs/features/software-catalog/well-known-annotations/#backstageiosource-location
+
+    - title: brokenImage
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: brokenImage
+    - title: catalog
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: catalog
+    - title: scaffolder
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: scaffolder
+    - title: techdocs
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: techdocs
+    - title: search
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: search
+    - title: chat
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: chat
+    - title: dashboard
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: dashboard
+    - title: docs
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: docs
+    - title: email
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: email
+    - title: github
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: github
+    - title: group
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: group
+    - title: help
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: help
+    - title: 'kind:api'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:api'
+    - title: 'kind:component'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:component'
+    - title: 'kind:domain'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:domain'
+    - title: 'kind:group'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:group'
+    - title: 'kind:location'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:location'
+    - title: 'kind:system'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:system'
+    - title: 'kind:user'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:user'
+    - title: 'kind:resource'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:resource'
+    - title: 'kind:template'
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: 'kind:template'
+    - title: user
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: user
+    - title: warning
+      url: https://backstage.io/docs/overview/what-is-backstage
+      icon: warning
+
   annotations:
     github.com/project-slug: res-idp/public-repo
     
