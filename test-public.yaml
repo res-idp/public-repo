@@ -4,9 +4,7 @@ metadata:
   name: test-public
   description: |
     catalog info in repo
-  links:
-    - title: Documentation - source location
-      url: https://backstage.io/docs/features/software-catalog/well-known-annotations/#backstageiosource-location
+  links: # https://github.com/backstage/backstage/blob/master/packages/app-defaults/src/defaults/icons.tsx
 
     - title: brokenImage
       url: https://backstage.io/docs/overview/what-is-backstage
@@ -44,9 +42,9 @@ metadata:
     - title: help
       url: https://backstage.io/docs/overview/what-is-backstage
       icon: help
-    - title: 'kind:api'
+    - title: kind:api
       url: https://backstage.io/docs/overview/what-is-backstage
-      icon: 'kind:api'
+      icon: kind:api
     - title: 'kind:component'
       url: https://backstage.io/docs/overview/what-is-backstage
       icon: 'kind:component'
