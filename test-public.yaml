@@ -51,7 +51,7 @@ metadata:
 
   annotations:
     github.com/project-slug: res-idp/public-repo
-    uselessfacts/uselessfact_type: Random
+    bitbucket/project-slug: projects/SELOBE/repos/air
     
 spec:
   type: library
