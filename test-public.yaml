@@ -51,7 +51,7 @@ metadata:
 
   annotations:
     github.com/project-slug: res-idp/public-repo
-    bitbucket/project-slug: projects/SELOBE/repos/air
+    bitbucket/project-slug: projects/MTPAAS/repos/4.x-clusterobj
     
 spec:
   type: library
